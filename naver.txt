@@ -28,3 +28,4 @@
 0.0.0.0	videost.nmv.naver.com
 0.0.0.0	vts.rmcnmv.naver.com
 0.0.0.0	wrd.naver.com
+0.0.0.0	adcr.naver.com
